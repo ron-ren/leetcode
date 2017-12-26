@@ -3,8 +3,8 @@
 ## Overview：
 ### Some questions on leetcode:
 
-| id    | titile    | id    | title    |
-| ------------- | :-------------: | -------------:|
+  | id             | titile          | id            | title          |
+  | :-------------:| :-------------: | -------------:| :-------------:|
 
 1. 1.Two Sum
 2. 268. Missing Number
